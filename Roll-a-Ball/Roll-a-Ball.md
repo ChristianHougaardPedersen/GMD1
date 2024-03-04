@@ -20,7 +20,9 @@ The **PlayerController**-script was then altered, by introducing the new **TextM
 The timer is implemented by initializing the **elapsedTime**-variable to 0 when the **Start()**-method is called (upon game initialization), and then updating it in the **FixedUpdate**-method to add time elapsed between the last and current frame to the counter. After updating the variable, the text in the **TextMeshPro**-element is updated in order to show the time.
 Finally, when the game is initialized, the **gameInProgress**-variable is set to true - and set to false when the last pickup is collected.
 
-![Screenshot of the changes made to the PlayerController file.](/1)%20Roll-a-Ball/images/PlayerController.png)
+![Screenshot of the changes made to the PlayerController file.](/Roll-a-Ball/images/PlayerController.png)
+![Screenshot of the game as it is currently.](/Roll-a-Ball/images/Gameplay.png)
+
 
 
 I plan to update the game further in the future, as time and my knowledge reagarding Unity improves - and here is a rough outline of ideas for extension/improvement i have for the game:
