@@ -2,8 +2,6 @@
 <p align="center">
   <img src="images/LABYRINTH_LEGENDS_LOGO_transparent.png" width=40% height=40%>
 </p>
-
-
 ## Game Concept
 "Labyrinth Legends" is a maze exploration game where players navigate labyrinths filled with traps and enemies. The game combines elements of strategy, reflexes, and problem-solving to create an engaging and challenging experience.
 
@@ -41,5 +39,10 @@ The game utilizes physics-based mechanics for player movement, object interactio
 
 ### Visual style
 The game will use a combination of 2D and 3D assets for maze layouts, character models, enemy sprites, environmental props, and special effects.
+
+## Development Milestones
+1) "Prototype" of Labyrinth Legends - meaning a playable version of the game including at least one level where it is possible to control the player character and get a feel of the game.
+2) 10 (??) levels implemented, as well as UI and preferably sounds/music for the game.
+3) The game is "finalized" meaning assets are implemented and such.
 
 
