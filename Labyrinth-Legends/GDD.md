@@ -1,4 +1,8 @@
 # Labyrinth Legends - GMD1 Project - Spring semester 2024
+<p align="center">
+  <img src="images/LABYRINTH_LEGENDS_LOGO_transparent.png" width=40% height=40%>
+</p>
+
 
 ## Game Concept
 "Labyrinth Legends" is a maze exploration game where players navigate labyrinths filled with traps and enemies. The game combines elements of strategy, reflexes, and problem-solving to create an engaging and challenging experience.
