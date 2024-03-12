@@ -4,3 +4,4 @@ This repository is meant for hosting the blog posts for the **Game Development 1
 
 ## Blog Posts ##
 1) [Roll-a-Ball](/Roll-a-Ball/Roll-a-Ball.md)
+2) [Labyrinth Legends GDD](/Labyrinth-Legends/GDD.md)
