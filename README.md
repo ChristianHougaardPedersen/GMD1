@@ -5,7 +5,7 @@ This repository is meant for hosting the blog posts for the **Game Development 1
 ## Blog Posts ##
 1) [Roll-a-Ball](/Roll-a-Ball/Roll-a-Ball.md)
 2) [Labyrinth Legends GDD](/Labyrinth-Legends/GDD.md)
-3) [Milestone 1 - Proof of Concept](/)
+3) [Milestone 1 - Proof of Concept](/Labyrinth-Legends/Milestone1.md)
    - Controllable player character
    - 1 playable level to navigate
    - Collectibles and scoring system
