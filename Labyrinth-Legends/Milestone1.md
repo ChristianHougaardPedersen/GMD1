@@ -24,7 +24,7 @@ The game project has been setup using the 2D URP (*Universal Render Pipeline*) t
 
 Using the second of the two involved quite a bit of trial and error to get working properly, as the tutorial is made with the "standard" 2D template, and is also written for an older version of the Unity engine (2020.3).
 
-![Milestone 1 Video](/Labyrinth-Legends/images/LL_Milestone1.gif)
+![Milestone 1 Video](/Labyrinth-Legends/resources/LL_Milestone1.gif)
 
 
 ### Level
