@@ -18,23 +18,23 @@ The scope of the project is to develop a functioning version of he game with cor
 
 ## Gameplay
 ### Objectives
-The main objective of "Labyrinth Legends" is to navigate through maze levels, defeat enemies, solve puzzles, and reach the exit while collecting treasures and power-ups along the way. Players must use their skills and strategic thinking to overcome obstacles and challenges in each level.
+The main objective of "Labyrinth Legends" is to navigate through maze levels, defeat enemies, solve puzzles, and reach the exit while collecting treasures along the way. Players must use their skills and strategic thinking to overcome obstacles and challenges in each level.
 
 ### Game Progression
-As players progress through the game, they unlock new levels, costumes, and upgrades. The difficulty gradually increases with each level, introducing more complex mazes, traps, and enemies to overcome.
+As players progress through the game, they unlock new levels. The difficulty gradually increases with each level, introducing more complex mazes, traps, and enemies to overcome.
 
 ### GUI
-The game will feature an intuitive and user-friendly GUI that displays essential information such as player health, inventory and (possibly) a map. The GUI design focuses on providing clear feedback and easy navigation for players.
+The game will feature an intuitive and user-friendly GUI that displays essential information such as player health. The GUI design focuses on providing clear feedback and easy navigation for players.
 
 ## Mechanics
 ### Rules
-Players must navigate through maze levels while avoiding traps and defeating enemies. They can collect power-ups to enhance their abilities and unlock new features as they progress. Combat involves timing, positioning, and strategic use of power-ups.
+Players must navigate through maze levels while avoiding traps and defeating enemies. Combat involves timing and positioning.
 
 ### Combat
-Combat in "Labyrinth Legends" requires players to use a combination of melee attacks, ranged attacks, and special abilities to defeat enemies.
+Combat in "Labyrinth Legends" requires players to use  melee attacks to defeat enemies.
 
 ### Physics
-The game utilizes physics-based mechanics for player movement, object interaction, and environmental effects. 
+The game utilizes physics-based mechanics for player movement and object interaction. 
 
 ## Game Elements
 
@@ -43,7 +43,7 @@ The game will use a combination of 2D and 3D assets for maze layouts, character 
 
 ## Development Milestones
 1) "Prototype" of Labyrinth Legends - meaning a playable version of the game including at least one level where it is possible to control the player character and get a feel of the game.
-2) 10 (??) levels implemented, as well as UI and preferably sounds/music for the game.
-3) The game is "finalized" meaning assets are implemented and such.
+2) Tilesets, Sprites and Animations implemented, as well as Health and Scoring systems.
+3) AI for enemies, UI additions and improvements as well as additional levels.
 
 
