@@ -28,7 +28,7 @@ The game will feature an intuitive and user-friendly GUI that displays essential
 
 ## Mechanics
 ### Rules
-Players must navigate through maze levels while avoiding traps and defeating enemies. Combat involves timing and positioning.
+Players must navigate through maze levels while avoiding or defeating enemies. Combat involves timing and positioning.
 
 ### Combat
 Combat in "Labyrinth Legends" requires players to use  melee attacks to defeat enemies.
